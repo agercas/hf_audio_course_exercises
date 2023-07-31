@@ -1,2 +1,3 @@
-# hf_audio_course_exercises
-Hugging Face Audio Course Exercises
+# Hugging Face Audio Course Exercises
+
+See [HF Audio Course](https://huggingface.co/learn/audio-course/)
